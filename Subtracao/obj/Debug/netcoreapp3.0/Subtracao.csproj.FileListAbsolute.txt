@@ -1,0 +1,10 @@
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.exe
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.deps.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\bin\Debug\netcoreapp3.0\Subtracao.pdb
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\obj\Debug\netcoreapp3.0\Subtracao.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\obj\Debug\netcoreapp3.0\Subtracao.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\obj\Debug\netcoreapp3.0\Subtracao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Subtracao\obj\Debug\netcoreapp3.0\Subtracao.pdb

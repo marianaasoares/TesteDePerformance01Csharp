@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.exe
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.deps.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\bin\Debug\netcoreapp3.0\Divisao.pdb
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\obj\Debug\netcoreapp3.0\Divisao.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\obj\Debug\netcoreapp3.0\Divisao.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\obj\Debug\netcoreapp3.0\Divisao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\obj\Debug\netcoreapp3.0\Divisao.pdb
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Divisao\obj\Debug\netcoreapp3.0\Divisao.csprojAssemblyReference.cache

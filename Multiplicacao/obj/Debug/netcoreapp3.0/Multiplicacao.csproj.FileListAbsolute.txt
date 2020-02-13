@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.exe
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.deps.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\bin\Debug\netcoreapp3.0\Multiplicacao.pdb
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.dll
+C:\Users\mariana.dsantos\source\repos\TesteDePerformance01_Csharp\Multiplicacao\obj\Debug\netcoreapp3.0\Multiplicacao.pdb
